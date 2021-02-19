@@ -1,6 +1,6 @@
 # About BookShelf
 
-Hi, i`m Nikolay Borzunov - 18 years old student, who`s learning Web Technologies in practice.
+Hi, i'm Nikolay Borzunov - 18 years old student, who's learning Web Technologies in practice.
 
 What is **BookShelf**?
 BookShelf is service for book notes, reviews and summaries. 
