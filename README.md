@@ -7,13 +7,13 @@ BookShelf is service for book notes, reviews and summaries.
 There you can share your review and summary with others, discuss about books and build your own library!
 
 ### Tasks
-* :heavy_check_mark: Add category
-* [ ] Remove category
-* [x] Edit category
-* [x] Add book
-* [x]Remove book
-* Edit book
-* Drag&Drop category
+ :white_check_mark: Add category
+ :white_check_mark: Remove category
+ :white_large_square: Edit category
+ :white_check_mark: Add book
+ :white_check_mark: Remove book
+ :white_check_mark: Edit book
+ Drag&Drop category
 * Drag&Drop book
 * Share summary
 * Comment summary
