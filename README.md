@@ -8,10 +8,10 @@ There you can share your review and summary with others, discuss about books and
 
 ### Tasks
 * [x] Add category
-* Remove category
-* Edit category
-* Add book
-* Remove book
+* [ ] Remove category
+* [x] Edit category
+* [x] Add book
+* [x]Remove book
 * Edit book
 * Drag&Drop category
 * Drag&Drop book
