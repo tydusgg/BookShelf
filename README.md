@@ -13,7 +13,7 @@ There you can share your review and summary with others, discuss about books and
 * :white_check_mark: Add book
 * :white_check_mark: Remove book
 * :white_check_mark: Edit book
-* :white_large_square: Drag&Drop category
+* :white_check_mark: Drag&Drop category
 * :white_large_square: Drag&Drop book
 * :white_large_square: Share summary
 * :white_large_square: Comment summary
@@ -21,8 +21,9 @@ There you can share your review and summary with others, discuss about books and
 * :white_large_square: Delete your summary
 * :white_large_square: Profile functionality
 * :white_large_square: Leaderboard
-* :white_large_square: Guest page
-
+* :white_check_mark: Guest page
+* :white_large_square:Change language
+* :white_large_square: Settings page
 ## Built with
 * **React** - The web framework used
 * **Redux** - State manager
